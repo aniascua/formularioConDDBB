@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noticias Tecnológicas</title>
+    <!-- Agregar enlaces a los archivos CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="index.js"></script>
+  </head>
+  <body>
+    <div class="jumbotron text-center">
+        <h1 class="display-2 font-weight-bold">Noticias tech 2023</h1>
+      </div>
+      
+    <!-- Agregar el contenido de la página -->
+    <div class="container">
+        <h1>Noticias Tecnológicas</h1>
+        <div class="row">
+          <!-- Aquí irán las noticias -->
+          <div class="col-md-8">
+            <div class="card mb-4 shadow-sm">
+              <img src="https://picsum.photos/600/400" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Noticia 1</h5>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis magna vel odio vehicula, in euismod nisl posuere. Morbi euismod laoreet nisi, ac vulputate est lacinia vel. Donec condimentum mauris non ultrices venenatis. In in massa eget elit maximus commodo sed vel lectus. Donec placerat, magna sit amet eleifend ullamcorper, turpis purus tincidunt mi, a efficitur eros nibh id ex.</p>
+                <a href="#" class="btn btn-primary">Leer más</a>
+              </div>
+            </div>
+          </div>
+          <!-- Agregar el formulario de suscripción -->
+          <div class="col-md-4">
+            <h3>Suscríbete a nuestro boletín de noticias</h3>
+            <form action="/formulario" method="post">
+              <div class="form-group">
+                <label for="nombre">Nombre</label>
+                <input type="text" class="form-control" id="nombre" name="nombre">
+              </div>
+              <div class="form-group">
+                <label for="email">Correo electrónico</label>
+                <input type="email" class="form-control" id="email" name="email">
+              </div>
+              <button type="submit" class="btn btn-primary">Suscribirse</button>
+            </form>
+            
+            
+          </div>
+        </div>
+      </div>
+      
+    <!-- Agregar enlaces a los archivos JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  </body>
+</html>

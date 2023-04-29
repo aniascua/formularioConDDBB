@@ -34,5 +34,4 @@ DATABASE_PASSWORD=contraseña</code></pre>
 
 <h1>Vista previa:</h1>
 
-<img src="https://user-images.githubusercontent.com/83845164/235324167-f6ea63bd-0208-483a-a5b3-06eb4b7f4476.PNG" alt="imagen" style="max-width: 100%;">
-
+![3](https://user-images.githubusercontent.com/83845164/235324336-3a4a51f3-9363-4292-b14d-43f26b001965.png)

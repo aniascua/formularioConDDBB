@@ -1,4 +1,4 @@
 # .gitignore
 .env
 
-# 
+# Acá ignoramos el archivo .env para que no se muestre en GitHub 

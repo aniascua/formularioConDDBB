@@ -18,3 +18,4 @@
 <h2>Uso del formulario</h2>
 <p>Una vez que hayas iniciado el servidor y navegado a la dirección http://localhost:3000, verás el formulario en la pantalla. Puedes llenar los campos y enviar el formulario para almacenar los datos en la base de datos JSON.</p>
 # nuevo
+# formularioConDDBB

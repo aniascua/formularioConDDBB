@@ -1,5 +1,3 @@
-<h1>Formulario con base de datos 📝📊</h1>
-<p>Este proyecto consiste en un formulario hecho en HTML y Bootstrap que al enviar los datos, los almacena en una base de datos PostgreSQL gracias a Node.js.</p>
 <h1>Cómo probar el repositorio con PostgreSQL y Node.js en VSCode 🚀</h1>
 <p>Este repositorio contiene un formulario web que utiliza una base de datos PostgreSQL para almacenar los datos ingresados. Si deseas probar el repositorio en tu propio entorno, sigue los siguientes pasos:</p>
 <h2>Requisitos previos 📋</h2>
@@ -33,3 +31,8 @@ DATABASE_PASSWORD=contraseña</code></pre>
   <li>Abre tu navegador y ve a la dirección <code>http://localhost:3000</code> para ver el formulario en acción. Ahora puedes enviar el formulario y ver los datos guardados en la base de datos <code>technews</code>.</li>
 </ol>
 <p>Listo! Ahora podés probar mi repositorio en tu entorno local con PostgreSQL y Node.js en Visual Studio Code 🎉</p>
+
+<h1>Vista previa:</h1>
+
+<img src="https://user-images.githubusercontent.com/83845164/235324167-f6ea63bd-0208-483a-a5b3-06eb4b7f4476.PNG" alt="imagen" style="max-width: 100%;">
+

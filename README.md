@@ -9,7 +9,7 @@
 <h2>Instrucciones 📝</h2>
 <ol>
   <li>Clona el repositorio en tu equipo usando Git:</li>
-  <pre><code>git clone https://github.com/aniascua/formulario_conDatabase.git</code></pre>
+  <pre><code>git clone https://github.com/aniascua/formularioConDDBB.git</code></pre>
   <li>Abre el proyecto en Visual Studio Code.</li>
   <li>Crea un archivo <code>.env</code> en la raíz del proyecto y agrega las siguientes variables de entorno necesarias:</li>
   <pre><code>DATABASE_HOST=localhost
